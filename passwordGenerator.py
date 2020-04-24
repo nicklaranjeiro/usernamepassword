@@ -14,6 +14,7 @@ def generatePasswords(lengthOfPasswords, numberOfPasswords):
         # Adds to an array
         passwords.append(password)
     # The array is returned
+    # This is a test comment
     return passwords
 
 
